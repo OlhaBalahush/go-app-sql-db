@@ -36,7 +36,7 @@
 ## Setup
 Clone the repository
 ```
-git clone https://github.com/khaletska/foorum.git
+https://github.com/OlhaBalahush/go-app-sql-db.git
 ```
 
 ## Usage
